@@ -1,0 +1,7 @@
+D:\навчання\epam\Task3\Task3\bin\Debug\Task3.exe.config
+D:\навчання\epam\Task3\Task3\bin\Debug\Task3.exe
+D:\навчання\epam\Task3\Task3\bin\Debug\Task3.pdb
+D:\навчання\epam\Task3\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+D:\навчання\epam\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\навчання\epam\Task3\Task3\obj\Debug\Task3.exe
+D:\навчання\epam\Task3\Task3\obj\Debug\Task3.pdb
